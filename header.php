@@ -6,5 +6,5 @@
     <title>My Valentine</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-pink-100 text-gray-900">
-    <div class="container mx-auto p-4">
+<body class="h-full bg-pink-100 text-gray-900">
+    <div class="h-full container mx-auto p-4">
